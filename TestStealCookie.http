@@ -1,0 +1,18 @@
+POST http://weblab.salemstate.edu/~csc435Fall2020Group2/submit.php
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="comment"
+
+hacked_by_group4
+--WebAppBoundary--
+
+###
+POST http://weblab.salemstate.edu/~csc435Fall2020Group2/submit.php
+Content-Type: application/json
+
+{
+  "comments": "hacked_by_group4"
+}
+
+###

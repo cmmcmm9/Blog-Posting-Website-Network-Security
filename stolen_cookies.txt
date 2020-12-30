@@ -1,0 +1,45 @@
+{"cookie":"PHPSESSID=b9l3aobr1meq5nbq04a7slidm3"}
+{"cookie":"PHPSESSID=b9l3aobr1meq5nbq04a7slidm3"}
+{"cookie":"compsecp=Super+Karen; PHPSESSID=b9l3aobr1meq5nbq04a7slidm3"}
+{"date":1,"cookie":"compsecp=Super+Karen; PHPSESSID=b9l3aobr1meq5nbq04a7slidm3"}
+{"date":2,"cookie":"compsecp=Super+Karen; PHPSESSID=b9l3aobr1meq5nbq04a7slidm3"}
+{"date":"11/2/2020","cookie":"PHPSESSID=b9l3aobr1meq5nbq04a7slidm3"}
+
+
+{"date":"11/2/2020","cookie":"PHPSESSID=b9l3aobr1meq5nbq04a7slidm3"}
+{"group":"Group 2","date":"11/2/2020","cookie":""}
+{"group":"Group 2","date":"11/2/2020","cookie":""}
+{"group":"Group 2","date":"11/2/2020","cookie":""}
+{"group":"Group 2","date":"11/2/2020","cookie":"compsecp=Super+Duper+Karen"}
+{"group":"Group 1","date":"11/2/2020","cookie":""}
+{"group":"Group 2","date":"11/3/2020","cookie":""}
+{"group":"Group 1","date":"11/3/2020","cookie":""}
+{"group":"Group 1","date":"11/3/2020","cookie":"PHPSESSID=71i19ge3tmvh1q4a2ito2ithf0"}
+{"group":"Group 1","date":"11/3/2020","cookie":"PHPSESSID=71i19ge3tmvh1q4a2ito2ithf0"}
+{"group":"Group 2","date":"11/3/2020 1606956326236","cookie":""}
+{"group":"Group 2","date":"11/3/2020 1606956388864","cookie":""}
+{"group":"Group 2","date":"11/3/2020 1606956683664","cookie":""}
+{"group":"Group 2","date":"11/3/2020 1606956861820","cookie":""}
+{"group":"Group 2","date":"11/3/2020 1606957063497","cookie":""}
+{"group":"Group 2","date":"11/3/2020 1606957393478","cookie":""}
+{"group":"Group 2","date":"11/3/2020 1606957415545","cookie":"compsecp=Mega+Karen"}
+{"group":"Group 2","date":"11/3/2020 1606957493719","cookie":"_ga=GA1.2.2098535270.1565319582; _fbp=fb.1.1604005350784.1801373689; _gid=GA1.2.62076861.1606945820"}
+{"group":"Group 1","date":"11/3/2020 1606957533884","cookie":""}
+{"group":"Group 1","date":"11/3/2020 1606957648069","cookie":""}
+{"group":"Group 1","date":"11/3/2020 1606957757718","cookie":""}
+{"group":"Group 2","date":"11/3/2020 1606957785624","cookie":"_ga=GA1.2.2098535270.1565319582; _fbp=fb.1.1604005350784.1801373689; _gid=GA1.2.62076861.1606945820"}
+{"group":"Group 1","date":"11/3/2020 1606957826951","cookie":""}
+{"group":"Group 2","date":"11/3/2020 1606957903635","cookie":"_ga=GA1.2.2098535270.1565319582; _fbp=fb.1.1604005350784.1801373689; _gid=GA1.2.62076861.1606945820"}
+{"group":"Group 2","date":"11/3/2020 1606958219317","cookie":"_ga=GA1.2.2098535270.1565319582; _fbp=fb.1.1604005350784.1801373689; _gid=GA1.2.62076861.1606945820"}
+{"group":"Group 2","date":"11/3/2020 1606959170689","cookie":"_ga=GA1.2.2098535270.1565319582; _fbp=fb.1.1604005350784.1801373689; _gid=GA1.2.62076861.1606945820"}
+{"group":"Group 2","date":"11/3/2020 1606960252779","cookie":"_ga=GA1.2.1746946150.1569089169; _fbp=fb.1.1598446441069.2080262224; _gac_UA-8173291-1=1.1606090836.CjwKCAiAtej9BRAvEiwA0UAWXif5q2T3HUQLMdVGrycbrEGfggxL_5Q7e41PJQOizKqWMJfc7nCc_BoCR1cQAvD_BwE"}
+{"group":"Group 2","date":"11/3/2020 1606962568631","cookie":"_ga=GA1.2.2098535270.1565319582; _fbp=fb.1.1604005350784.1801373689; _gid=GA1.2.62076861.1606945820; _gat=1"}
+{"group":"Group 2","date":"11/3/2020 1606964595479","cookie":""}
+{"group":"Group 2","date":"11/3/2020 1606966394904","cookie":""}
+{"group":"Group 2","date":"11/3/2020 1606966434071","cookie":""}
+{"group":"Group 2","date":"11/3/2020 1606966574576","cookie":"_ga=GA1.2.2098535270.1565319582; _fbp=fb.1.1604005350784.1801373689; _gid=GA1.2.62076861.1606945820"}
+{"group":"Group 2","date":"11/4/2020 1606977302176","cookie":"_fbp=fb.1.1600052342337.1764153093; _ga=GA1.2.522839381.1600052342; _gid=GA1.2.383222332.1606950134"}
+{"group":"Group 2","date":"11/4/2020 1607000647590","cookie":"_ga=GA1.2.2098535270.1565319582; _fbp=fb.1.1604005350784.1801373689; _gid=GA1.2.62076861.1606945820"}
+{"group":"Group 2","date":"11/4/2020 1607003704679","cookie":""}
+{"group":"Group 1","date":"11/4/2020 1607003742732","cookie":""}
+{"group":"Group 2","date":"11/4/2020 1607015510992","cookie":""}
